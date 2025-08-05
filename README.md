@@ -42,3 +42,20 @@ outputs/
 ├── cropped_output.mp4       # Video with only cropped detected objects
 └── annotated_output.mp4     # Original video with bounding boxes drawn
 ```
+
+
+
+
+
+
+https://github.com/user-attachments/assets/008efa1d-0ed2-446f-b92e-35210cc17cbc
+
+
+
+
+
+https://github.com/user-attachments/assets/48c11ffb-eaf0-4680-8fde-f061ef45fdb0
+
+
+
+
