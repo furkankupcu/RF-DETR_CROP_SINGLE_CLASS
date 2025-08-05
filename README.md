@@ -11,7 +11,9 @@ This project uses the RF-DETR model to detect specific objects in a video. It ge
 You need the following Python packages installed:
 
 ```bash
-pip install
+pip install -r requirements.txt
+
+---
 
 python main.py \
   --video-path "videos/input_video.mp4" \
@@ -21,6 +23,8 @@ python main.py \
   --threshold 0.5 \
   --fps 25 \
   --padding 20
+
+---
 
 | Argument                  | Description                                           |
 | ------------------------- | ----------------------------------------------------- |
