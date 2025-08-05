@@ -43,14 +43,3 @@ outputs/
 └── annotated_output.mp4     # Original video with bounding boxes drawn
 ```
 
-
-
-
-
-
-https://github.com/user-attachments/assets/008efa1d-0ed2-446f-b92e-35210cc17cbc
-
-
-
-
-
