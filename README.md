@@ -37,7 +37,8 @@ python main.py \
 | `--fps`                   | Frames per second for output videos                   |
 | `--padding`               | Padding in pixels around bounding boxes when cropping |
 
-
+```bash
 outputs/
 ├── cropped_output.mp4       # Video with only cropped detected objects
 └── annotated_output.mp4     # Original video with bounding boxes drawn
+```
