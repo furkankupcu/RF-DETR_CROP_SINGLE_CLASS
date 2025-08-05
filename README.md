@@ -19,13 +19,13 @@ python main.py \
 
 Argument	Description
 
---video-path	(Zorunlu) Girdi video dosyasının yolu.
---cropped-output-path	Kırpılmış nesneleri içeren videonun çıktı yolu.
---annotated-output-path	İşaretlenmiş tam kare videonun çıktı yolu.
---class-id	Tespit edilecek COCO sınıf ID'si (örneğin, 1 kişi anlamına gelir).
---threshold	Tespit için güven eşiği (varsayılan: 0.5).
---fps	Çıktı videoları için saniye başına kare sayısı (FPS).
---padding	Kırpma sırasında sınırlayıcı kutu etrafındaki piksel cinsinden dolgu.
+-video-path	(Zorunlu) Girdi video dosyasının yolu.
+-cropped-output-path	Kırpılmış nesneleri içeren videonun çıktı yolu.
+-annotated-output-path	İşaretlenmiş tam kare videonun çıktı yolu.
+-class-id	Tespit edilecek COCO sınıf ID'si (örneğin, 1 kişi anlamına gelir).
+-threshold	Tespit için güven eşiği (varsayılan: 0.5).
+-fps	Çıktı videoları için saniye başına kare sayısı (FPS).
+-padding	Kırpma sırasında sınırlayıcı kutu etrafındaki piksel cinsinden dolgu.
 
 outputs/
 ├── cropped_output.mp4       # Video with only cropped detected objects
