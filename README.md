@@ -12,7 +12,7 @@ You need the following Python packages installed:
 
 ```bash
 pip install -r requirements.txt
-
+```
 ---
 
 python main.py \
@@ -23,6 +23,7 @@ python main.py \
   --threshold 0.5 \
   --fps 25 \
   --padding 20
+
 
 ---
 
